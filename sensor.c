@@ -2,6 +2,6 @@
 int main(){
 printf("Version main\n");
 printf("Hola mundo");
-printf("Agregar variable offset");
+printf("Este es el valor de offset:\n");
 return 0;
 }
